@@ -1,0 +1,15 @@
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

@@ -1,0 +1,29 @@
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.exe
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.deps.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\refint\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.genruntimeconfig.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\Assignment_2\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\ref\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.exe
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.deps.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.sourcelink.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\refint\AbstractClassDemo.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.genruntimeconfig.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\New folder\dcit318-assignment2-11134106\AbstractClassDemo\obj\Debug\net8.0\ref\AbstractClassDemo.dll
